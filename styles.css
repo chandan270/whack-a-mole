@@ -1,0 +1,48 @@
+#a1,#a2,#a3,#a4,#a5,#a6,#a7,#a8,#a9,#a10,#a11,#a12,#a13,#a14,#a15,#a16{
+    height: 130px;
+    width: 130px;
+    background-color: white;
+    display: inline-block;
+    
+}
+img{
+    height: 130px;
+    width: 130px;
+}
+
+body{
+    background-color: gray;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+img{
+    display: none;
+}
+
+#game{
+    margin-bottom: 20px;
+    float: left;
+    margin-left: 200px;
+    
+}
+
+button{
+    margin-top: 10px;
+    background-color: gray;
+    color: white;
+    border-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#card{
+    float: right;
+    margin-top: 200px;
+    margin-right: 300px;
+    font-size: larger;
+}
